@@ -1,5 +1,5 @@
 
-df=read.csv("d:/csv-ml/boston_dataset.csv")
+df=read.csv("boston_dataset.csv")
 
 head(df)
 
